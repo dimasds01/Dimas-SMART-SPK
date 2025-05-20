@@ -1,0 +1,38 @@
+# Node modules (jika pakai npm/yarn)
+node_modules/
+
+# Folder build atau hasil kompilasi
+build/
+dist/
+
+# File log
+*.log
+
+# File sementara/editor
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Folder cache
+cache/
+tmp/
+
+# File konfigurasi lokal
+.env
+.DS_Store
+
+# IDE/editor config (contoh IntelliJ, VSCode)
+.idea/
+.vscode/
+
+# Database SQLite (kalau ada)
+*.sqlite
+*.sqlite3
+
+# File backup
+*.bak
+*.old
+
+# Folder media yang bisa besar (kalau kamu ingin exclude)
+media/
