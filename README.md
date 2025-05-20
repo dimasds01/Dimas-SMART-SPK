@@ -34,6 +34,13 @@ Dimas Dwi Saputra
 Email: dimasds766@gmail.com  
 LinkedIn: www.linkedin.com/in/dimas-dwi-saputra-5a2868168
 
+
+## Tampilan Aplikasi
+
+Berikut beberapa screenshot dari aplikasi absensi:
+
+![Halaman Utama](screenshots/Dashboar_SPK.png)
+![Login](screenshots/Login_SPK.png)
 ---
 
 *Terima kasih sudah melihat proyek ini!*
