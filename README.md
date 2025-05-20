@@ -39,7 +39,7 @@ LinkedIn: www.linkedin.com/in/dimas-dwi-saputra-5a2868168
 
 Berikut beberapa screenshot dari aplikasi absensi:
 
-![Halaman Utama](screenshots/Dashboar_SPK.png)
+![Halaman Utama](screenshots/Dashboard_SPK.png)
 ![Login](screenshots/Login_SPK.png)
 ---
 
