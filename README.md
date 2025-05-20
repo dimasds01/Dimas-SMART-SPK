@@ -32,7 +32,7 @@ Aplikasi ini dibuat untuk mempermudah proses pengambilan keputusan dengan menggu
 
 Dimas Dwi Saputra  
 Email: dimasds766@gmail.com  
-LinkedIn: [linkedin.com/in/dimasds01](https://linkedin.com/in/dimasds01)
+LinkedIn: www.linkedin.com/in/dimas-dwi-saputra-5a2868168
 
 ---
 
